@@ -1,4 +1,4 @@
-# given a log of requests for the images over last month, and the regions you have a server in. Write a function that will determine which regions to host the image in.
+# Given a log of requests for the images over last month and the regions you have a server in, write a function that will determine which regions to host the image in.
 # 
 # To determine which region an image will need to be located in, look at the first two numbers in the IP block. Assume that locating images in the closest IP block to the request will suffice for geographic relevance.
 # 
